@@ -1,0 +1,65 @@
+[
+  {
+    "group": {
+      "title": "Внутренняя разработка",
+      "items": [
+        {
+          "absoluteLink": "https://docs.vktech.team/vkdocs-platform/",
+          "title": "VK Docs",
+          "description": "Создание и публикация технической документации",
+          "icon": "/ru/vk-tech-docs/assets/vkdocs-icon.svg",
+          "iconMobile": "/ru/vk-tech-docs/assets/vkdocs-icon-mobile.svg"
+        },
+        {
+          "absoluteLink": "https://docs-master.vk-tech-solar.front.vkcsdev.corpcloud.devmail.ru/",
+          "title": "Solar",
+          "description": "Фреймворк для создания микросервисов на Typescript",
+          "icon": "/ru/vk-tech-docs/assets/solar-icon.svg",
+          "iconMobile": "/ru/vk-tech-docs/assets/solar-icon-mobile.svg"
+        },
+        {
+          "absoluteLink": "https://docs.vktech.team/ciam/",
+          "title": "CIAM",
+          "description": "Система управления пользователями, их правами и доступом",
+          "icon": "/ru/vk-tech-docs/assets/ciam-icon.svg",
+          "iconMobile": "/ru/vk-tech-docs/assets/ciam-icon-mobile.svg"
+        }
+      ]
+    }
+  },
+  {
+    "group": {
+      "title": "Частные инсталляции VK Cloud",
+      "items": [
+        {
+          "absoluteLink": "http://docs.cloudplatform.devmail.ru/docs/on-premises/private-cloud",
+          "title": "Private Cloud",
+          "description": "Платформа для построения частного облака в ЦОДе заказчика",
+          "icon": "/ru/vk-tech-docs/assets/private-cloud-icon.svg",
+          "iconMobile": "/ru/vk-tech-docs/assets/private-cloud-mobile-icon.svg"
+        },
+        {
+          "absoluteLink": "http://docs.cloudplatform.devmail.ru/docs/on-premises/dev-platform",
+          "title": "Платформа разработки",
+          "description": "Готовое решение для построения внутренних платформ разработки",
+          "icon": "/ru/vk-tech-docs/assets/dev-platform-icon.svg",
+          "iconMobile": "/ru/vk-tech-docs/assets/dev-platform-mobile-icon.svg"
+        },
+        {
+          "absoluteLink": "http://docs.cloudplatform.devmail.ru/docs/on-premises/data-platform",
+          "title": "VK Data Platform",
+          "description": "Универсальная платформа для работы с большими данными и машинным обучением",
+          "icon": "/ru/vk-tech-docs/assets/data-platform-icon.svg",
+          "iconMobile": "/ru/vk-tech-docs/assets/data-platform-mobile-icon.svg" 
+        },
+        {
+          "absoluteLink": "http://docs.cloudplatform.devmail.ru/docs/on-premises/s3",
+          "title": "Cloud Storage в частной инсталляции",
+          "description": "Быстрое и надежное S3-совместимое объектное хранилище",
+          "icon": "/ru/vk-tech-docs/assets/cloud-storage-icon.svg",
+          "iconMobile": "/ru/vk-tech-docs/assets/cloud-storage-mobile-icon.svg" 
+        }
+      ]
+    }
+  }
+]
